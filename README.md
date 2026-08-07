@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Shilpi 👋
 
-<!--
-**SHILPI908/SHILPI908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student and aspiring Software Developer, currently focused on building practical projects and strengthening my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+* **Languages:** Java, Python, C++, JavaScript, SQL
+* **Frontend:** HTML, CSS, React.js
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB, SQL
+* **Tools:** Git, GitHub, VS Code
+* **Currently Learning:** Data Structures & Algorithms, Spring Boot
+
+### 🚀 Projects
+
+#### Job Portal
+
+Full-stack job portal with authentication, role-based access control and REST APIs.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, JWT
+
+#### Crop Disease Detection
+
+Web-based application for detecting crop diseases using image-based analysis.
+
+**Tech:** React.js, PWA, WebRTC, MongoDB
+
+### 📚 Currently Working On
+
+* Data Structures & Algorithms
+* Java
+* Spring Boot
+* Full-Stack Development
+* SQL
+
+### 🎯 Career Goal
+
+Looking for opportunities where I can apply my programming and development skills, work on real-world software projects, and continue growing as a Software Developer.
+
+---
+
+⭐ Thanks for visiting my profile!
